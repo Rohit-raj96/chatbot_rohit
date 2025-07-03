@@ -1,4 +1,4 @@
-# Hi there!  Welcome to my RAG Chatbot Project
+# Hi there!  Welcome to my Smarat Chatbot Project
 
 Hey! I'm Rohit Garg, a fresher developer, and this is my chatbot project that I built using some really cool AI technology. It's basically a smart chatbot that can read documents and answer questions about them!
 
