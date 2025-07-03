@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+requests
+faiss-cpu
+sentence-transformers
+numpy
+PyPDF2
+tqdm
+scikit-learn
+langchain
