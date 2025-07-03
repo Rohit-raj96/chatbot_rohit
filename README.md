@@ -19,8 +19,8 @@ First, you'll need:
 
 1. First, grab all the code:
 ```bash
-git clone <your-repo-url>
-cd project1
+git clone https://github.com/Rohit-raj96/rag_chatbot_rohit.git
+cd chatbot_rohit
 ```
 
 2. Install all the necessary stuff:
